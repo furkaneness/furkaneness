@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furkaneness
-- 👀 I’m interested in Game Developement
-- 🌱 I’m currently learning Unity 3D
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analysis with Python
 - 📫 How to reach me : efkurban@outlook.com
 
 <!---
