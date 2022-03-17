@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @furkaneness
+- 👋 Hi, I’m Enes Furkan
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis with Python
+- 🌱 I’m currently learning Data Science & Machine Learning
 - 📫 How to reach me : efkurban@outlook.com
 
 <!---
