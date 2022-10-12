@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Furkan</h1>
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@furkaneness](https://medium.com/@furkaneness)
-
 - 📫 How to reach me **efkurban@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
