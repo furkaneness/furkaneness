@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Enes Furkan</h1>
-- 🌱 I’m currently learning **Data Science & Machine Learning**
 
 - 📫 How to reach me **efkurban@outlook.com**
 
